@@ -1,0 +1,22 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1_Two Sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MinwooJJ/LeetCode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MinwooJJ/LeetCode/issues"
+  },
+  "homepage": "https://github.com/MinwooJJ/LeetCode#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
