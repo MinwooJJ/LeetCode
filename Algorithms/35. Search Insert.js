@@ -13,6 +13,7 @@ const searchInsert = function (nums, target) {
 
   let pivot = 0;
 
+  // T: O(log(n))
   while (left < right) {
     pivot = Math.floor((right + left) / 2);
 
